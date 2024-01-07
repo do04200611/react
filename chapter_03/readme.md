@@ -5,7 +5,7 @@
 ## Language of repository📚
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 
-# react## Introduction to repositories 
+# Introduction to repositories 
  react 쓰면서 배웠던 것을 올려놓은 걸 모아놓은 레파지토리입니다.
 
 
