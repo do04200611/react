@@ -22,7 +22,7 @@
 # react about
   | プロジェクト名           | 期間          | 説明                 |
   |------------------------|---------------|--------------------|
-  |[react 개발 환경 구축 방법](https://kim-kang-hyun.tistory.com/2)|2024/01/08|react 개발 환경 설정하는 방법을 정리했습니다. |
+  |[JavaScript 개념 정리](https://kim-kang-hyun.tistory.com/6)|2024/01/08|react 개발 환경 설정하는 방법을 정리했습니다. |
  |[react에 대한 개념 정리]( https://kim-kang-hyun.tistory.com/3)|2024/01/08|react의 대한 개념 정리한 사이트입니다.|
 
 
