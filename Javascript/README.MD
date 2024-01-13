@@ -11,9 +11,8 @@
  # project
 
   | プロジェクト名           | 期間          | 説明                 |ファイル|
-  |------------------------|---------------|--------------------|-------------|
-  |<img src="file:///C:/Users/kimga/OneDrive/%EC%82%AC%EC%A7%84/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-01-13%20225026.png
-">|2024/01/07|react를 이용해서 처음 실행시킨 결과물입니다. |
+  |------------------------|---------------|--------------------|-------------|  
+|file:///C:/Users/kimga/OneDrive/%EC%82%AC%EC%A7%84/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-01-13%20225026.png|2024/01/07|react를 이용해서 처음 실행시킨 결과물입니다. |
  |<a href="https://github.com/do04200611/react/blob/main/chapter_03/Library.jsx"><img src="https://github.com/do04200611/react/assets/74278578/8a36dab1-81f6-4d4f-806c-00b202b3b304"></a>|2024/01/07|react를 이용한 간단한 코드|[Other file](https://github.com/do04200611/react/blob/main/chapter_03/Book.jsx)|
 
 
