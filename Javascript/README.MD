@@ -12,8 +12,11 @@
 
   | プロジェクト名           | 期間          | 説明                 |
   |------------------------|---------------|--------------------|  
-|<a href="https://github.com/do04200611/react/blob/main/Javascript/operator.js"><img src="https://github.com/do04200611/react/assets/74278578/44deefa3-4175-406f-aec7-ce111f4a9822">|2024/01/07|JavaScript 연산자 코드입니다.|
- |<a href="https://github.com/do04200611/react/blob/main/Javascript/data-type.js"><img src="https://github.com/do04200611/react/assets/74278578/720af72c-476d-44a7-8fda-97de7ddc5d13"></a>|2024/01/07|JavaScript 자료형 코드|
+|<a href="https://github.com/do04200611/react/blob/main/Javascript/operator.js"><img src="https://github.com/do04200611/react/assets/74278578/44deefa3-4175-406f-aec7-ce111f4a9822">|2024/01/13|JavaScript 연산자 코드입니다.|
+ |<a href="https://github.com/do04200611/react/blob/main/Javascript/data-type.js"><img src="https://github.com/do04200611/react/assets/74278578/720af72c-476d-44a7-8fda-97de7ddc5d13"></a>|2024/01/13|JavaScript 자료형 코드|
+ |<a href="https://github.com/do04200611/react/blob/main/Javascript/function.js"><img src="https://github.com/do04200611/react/assets/74278578/cab4dbb8-784d-4583-b39f-c182efcca61d"></a>|2024/01/13|JavaScript 함수 선 코드|
+
+
 
 
 
