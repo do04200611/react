@@ -13,7 +13,7 @@
   | プロジェクト名           | 期間          | 説明                 |ファイル|
   |------------------------|---------------|--------------------|-------------|  
 |<img src="https://github.com/do04200611/react/assets/74278578/44deefa3-4175-406f-aec7-ce111f4a9822">|2024/01/07|react를 이용해서 처음 실행시킨 결과물입니다. |
- |<a href="https://github.com/do04200611/react/blob/main/chapter_03/Library.jsx"><img src="https://github.com/do04200611/react/assets/74278578/8a36dab1-81f6-4d4f-806c-00b202b3b304"></a>|2024/01/07|react를 이용한 간단한 코드|[Other file](https://github.com/do04200611/react/blob/main/chapter_03/Book.jsx)|
+ |<a href="https://github.com/do04200611/react/blob/main/chapter_03/Library.jsx"><img src="https://github.com/do04200611/react/assets/74278578/720af72c-476d-44a7-8fda-97de7ddc5d13"></a>|2024/01/07|react를 이용한 간단한 코드|[Other file](https://github.com/do04200611/react/blob/main/chapter_03/Book.jsx)|
 
 
 
