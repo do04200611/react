@@ -17,7 +17,6 @@
   |<img src="https://github.com/do04200611/react/assets/74278578/ce6db54c-ae55-4df5-9da8-2222be6dfac5">|2024/01/07|react를 이용해서 처음 실행시킨 결과물입니다. |
  |<a href="https://github.com/do04200611/react/blob/main/react-code-folder/Library.jsx"><img src="https://github.com/do04200611/react/assets/74278578/8a36dab1-81f6-4d4f-806c-00b202b3b304"></a>|2024/01/07|react를 이용한 간단한 코드(JSX를 사용)|[Other file](https://github.com/do04200611/react/blob/main/react-code-folder/Book.jsx)|
  |<a href="https://github.com/do04200611/react/blob/main/react-code-folder/Library.jsx"><img src="https://github.com/do04200611/react/assets/74278578/4c744e03-edbd-4771-9f4b-25ef7774afed"></a>|2024/01/07|jsx를 쓰지 않은 코드||
-https://github.com/do04200611/react/assets/74278578/4c744e03-edbd-4771-9f4b-25ef7774afed
 
 # react about
   | プロジェクト名           | 期間          | 説明                 |
