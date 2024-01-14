@@ -24,7 +24,7 @@
   |[react 개발 환경 구축 방법](https://kim-kang-hyun.tistory.com/2)|2024/01/08|react 개발 환경 설정하는 방법을 정리했습니다. |
  |[react에 대한 개념 정리]( https://kim-kang-hyun.tistory.com/3)|2024/01/08|react의 대한 개념 정리했습니다.|
   |[react의 장단점]( https://kim-kang-hyun.tistory.com/7)|2024/01/014|react의 장단점에 대해서 정리했습니다.|
-  |[JSX에 대해서]( https://kim-kang-hyun.tistory.com/7)|2024/01/14|JSX에 대해서 정리했습니다.(장점, JSX에 대한 개념과 사용법)|
+  |[JSX에 대해서](https://kim-kang-hyun.tistory.com/8)|2024/01/14|JSX에 대해서 정리했습니다.(장점, JSX에 대한 개념과 사용법)|
 
 
 
